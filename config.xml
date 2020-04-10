@@ -38,7 +38,7 @@
 
 <plugin name="com.guinatal.refreshgallery" spec="https://github.com/guinatal/refreshgallery.git"/> 
 <plugin name="com.verso.cordova.clipboard" spec="https://github.com/VersoSolutions/CordovaClipboard.git"/> 
-<plugin name="phonegap-plugin-push" spec="2.3.0"/> 
+<!-- <plugin name="phonegap-plugin-push" spec="2.3.0"/>  -->
 <plugin name="com.googlemaps.ios" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk"/> 
 
 
